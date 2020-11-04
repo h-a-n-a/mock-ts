@@ -1,0 +1,30 @@
+{
+  "name": "mock-ts",
+  "version": "0.0.1",
+  "description": "Generate http mock with TypeScript interfaces",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h-a-n-a/mock-ts.git"
+  },
+  "keywords": [
+    "typescript",
+    "mock",
+    "ts",
+    "interface"
+  ],
+  "author": "h-a-n-a",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/h-a-n-a/mock-ts/issues"
+  },
+  "homepage": "https://github.com/h-a-n-a/mock-ts#readme",
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "prettier": "^2.1.2",
+    "typescript": "^4.0.5"
+  }
+}
